@@ -15,8 +15,8 @@
 
             //Other basic operators
             Console.WriteLine(12 - 8); //Subtraction
-            Console.WriteLine(10 / 5);//Division
-            Console.WriteLine(2 * 11);//Multiplicaton
+            Console.WriteLine(10 / 5); //Division
+            Console.WriteLine(2 * 11); //Multiplicaton
 
             int legos = 15 + 27;
             Console.WriteLine(legos); //this works
