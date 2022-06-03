@@ -196,10 +196,10 @@ namespace Block3
             string timesSmuggledString = Console.ReadLine();
 
             //( Parse ) ---------------------------------------------------------------------------------
-            //short timesSmuggled = short.Parse(timesSmuggledString);
+            short timesSmuggled = short.Parse(timesSmuggledString);
 
             //Now, do the same using ( Convert )       *WILL ALWAYS USE TRUE NAME TO CONVERT!!!*
-            short timesSmuggled = Convert.ToInt16(timesSmuggledString);
+            //short timesSmuggled = Convert.ToInt16(timesSmuggledString);
 
             Console.WriteLine("You have {0} more trips to get your free lightsaber.", 10 - timesSmuggled);
 
