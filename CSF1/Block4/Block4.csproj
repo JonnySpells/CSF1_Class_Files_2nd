@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Block4.ArrayLab</StartupObject>
+    <StartupObject>Block4.BranchingSwitch</StartupObject>
   </PropertyGroup>
 
 </Project>
